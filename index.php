@@ -50,7 +50,9 @@
 
                 <?php include("defaut.php") ?>
 
-                <?php include("lien.php") ?>
+                <?php include("lien1.php") ?>
+
+                <?php include("lien2.php") ?>
 
                 <?php include("zeend.php") ?>
 

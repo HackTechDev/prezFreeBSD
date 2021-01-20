@@ -5,7 +5,7 @@
 <li>Système de cloisement par jails</li>
 <li>Système de fichier ZFS</li>
 <li>Ports</li>
-<li>Pare-feu: Packet Filter</li>
+<li>Pare-feu : Packet Filter</li>
 <li>Configuration système</li>
     </p>
 </section>
