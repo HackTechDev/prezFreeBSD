@@ -4,10 +4,10 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>reveal.js – The HTML Presentation Framework</title>
+        <title>Présentation de GhostBSD</title>
 
-		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-		<meta name="author" content="Hakim El Hattab">
+        <meta name="description" content="Présentation de GhostBSD">
+        <meta name="author" content="Samuel Gondouin">
 
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -29,11 +29,34 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 
-                <?php include("cover.php") ?>
+                <?php include("ilard.php") ?>
+
+                <?php include("couverture.php") ?>
+
+
+                <?php include("introduction.php") ?>
+
+                <?php include("historique.php") ?>
+
+                <?php include("trueos.php") ?>
+
+                <?php include("freebsd.php") ?>
+
+                <?php include("port.php") ?>
+
+                <?php include("comparaison.php") ?>
+
+                <?php include("atout.php") ?>
+
+                <?php include("defaut.php") ?>
+
+                <?php include("lien.php") ?>
 
                 <?php include("zeend.php") ?>
 
                 <?php include("revealjs.php") ?>
+
+                <?php include("pratique.php") ?>
 
 
 			</div>
