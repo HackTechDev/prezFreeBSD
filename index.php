@@ -57,9 +57,9 @@
 
                 <?php include("lien2.php") ?>
 
-                <?php include("zeend.php") ?>
-
                 <?php include("revealjs.php") ?>
+
+                <?php include("zeend.php") ?>
 
                 <?php include("pratique.php") ?>
 

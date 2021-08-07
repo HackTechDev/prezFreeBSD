@@ -1,6 +1,6 @@
                 <section>
                     <h3>L'Association ILArd</h3>
-                    <h4>Informatique Libre en Ardennes</h4>
+                    <h4>Informatique Libre en Ardenne</h4>
                     <p>
                         <a href="http://ilard.fr" target="_blank">http://ilard.fr</a><br/>
                         <img src="image/woinux3-brosse.svg" width="200px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">
