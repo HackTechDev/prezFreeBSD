@@ -1,8 +1,8 @@
 <section style="text-align: left;">
     <h3>Liens</h3>
     <p>
-<li>https://github.com/HackTechDev/prezGhostBSD</li>
-<li>https://rockstarninja.hacktech.dev/prez/prezGhostBSD</li>
+<li><a href="https://github.com/HackTechDev/prezGhostBSD">https://github.com/HackTechDev/prezGhostBSD</a></li>
+<li><a href="https://projet.hacktech.dev/prez/prezFreeBSD">https://projet.hacktech.dev/prez/prezFreeBSD</a></li>
     </p>
 </section>
 

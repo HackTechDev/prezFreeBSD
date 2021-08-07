@@ -16,7 +16,7 @@
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+		<link rel="stylesheet" href="dist/theme/beige.css" id="theme">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
@@ -33,10 +33,17 @@
 
                 <?php include("couverture.php") ?>
 
+                <?php include("origine.php") ?>    
 
-                <?php include("introduction.php") ?>
+                <?php include("historique.php") ?>
+
+                <?php include("signification.php") ?>
 
                 <?php include("freebsd.php") ?>
+
+                <?php include("utilisation.php") ?>
+
+                <?php include("communaute.php") ?>
 
                 <?php include("port.php") ?>
 
