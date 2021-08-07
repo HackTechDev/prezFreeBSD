@@ -4,9 +4,9 @@
 	<head>
 		<meta charset="utf-8">
 
-        <title>Présentation de GhostBSD</title>
+        <title>Présentation de FreeBSD</title>
 
-        <meta name="description" content="Présentation de GhostBSD">
+        <meta name="description" content="Présentation de FreeBSD">
         <meta name="author" content="Samuel Gondouin">
 
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -35,10 +35,6 @@
 
 
                 <?php include("introduction.php") ?>
-
-                <?php include("historique.php") ?>
-
-                <?php include("trueos.php") ?>
 
                 <?php include("freebsd.php") ?>
 
