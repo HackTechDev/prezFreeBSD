@@ -41,6 +41,8 @@
 
                 <?php include("freebsd.php") ?>
 
+                <?php include("version.php") ?>
+
                 <?php include("utilisation.php") ?>
 
                 <?php include("communaute.php") ?>
